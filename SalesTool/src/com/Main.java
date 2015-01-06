@@ -16,11 +16,9 @@ public class Main {
 		System.out.println("In Main Display Greeting method");
 		System.out.println(" Test1");
 		System.out.println(" Test2");
+ 
+		System.out.println("Hello happy sales data");
 		 
-		System.out.println(" Test1");//asas
-		System.out.println(" Test2");
-		 
-		 
-	} 
-} 
+	}  	
+} 		
  
