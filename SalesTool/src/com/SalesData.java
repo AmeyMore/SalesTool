@@ -7,5 +7,5 @@ public class SalesData {
 		System.out.println("In SalesData");
 		System.out.println("In fcap");
 		
-	}
-}
+	}	
+}		
