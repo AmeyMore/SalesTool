@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("In Main Display Greeting method");
 		System.out.println(" Test1");
 		System.out.println(" Test2");
-		
+		 
 		 
 		
 	}
